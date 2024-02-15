@@ -14,7 +14,10 @@
 #### 3. [SMA N 1 Sidikalang](https://smanegeri1sidikalang.sch.id) | IPA | Sidikalang `2004-2007`
   
 ## Work Experience:
-#### 1. [RSAB Harapan Kita](https://www.rsabhk.co.id) | Nutritionist | Jakarta `July'2013 - Now`
+#### 1. Shopping Cart project | [RevoU](https://revou.co)
+- Cleaning and analyzing data for 616 customers from Januari to October 2021
+  
+#### 2. [RSAB Harapan Kita](https://www.rsabhk.co.id) | Nutritionist | Jakarta `July'2013 - Now`
    - Provided personalized nutrition counseling and meal planning services to clients with diverse health goal and dietary needs
    - Conducted nutritional assessments and developed customized plans to address clients' specific health concerns, such as weight management, diabetes, and heart disease
    - Educated clients on the importance of nutrition and lifestyle modifications through individual consultations, group workshops, and community outreach programs.
@@ -25,11 +28,9 @@
 
 ### Languages and Tools:
 
-####  a. Phyton
-####  b. SQL
-####  c. Spreadsheet
-####  d. Tablue
-####  e. Looker
+####  a. Programming : Phyton, SQL
+####  b. Data Analysis : Spreadsheet, Tableau, Looker
+####  d. Languages : English, Indonesia
 
 <br />
 <br />
